@@ -7,8 +7,6 @@ This project implements a RESTful API for managing Train ticket Management Syste
 
 * Spring Boot
 
-* spring security
-
 * Logging
 
 * MySQL
